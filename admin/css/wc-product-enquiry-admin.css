@@ -1,0 +1,19 @@
+.wcpe-enquiry-item {
+	margin-right: 5px;
+}
+
+.wcpe-enquiry-item img {
+	width: 40px;
+	border-radius: 50%;
+}
+
+.column-enquirer p i {
+	margin-right: 10px;
+}
+
+.wcpe-items-total-footer {
+	border-top: 1px solid #b2b2b2;
+}
+.wcpe-product-name a {
+	text-decoration: none;
+}
